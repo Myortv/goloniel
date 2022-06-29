@@ -1,0 +1,17 @@
+goloniel/goloniel/settings.py
+goloniel/account/migrations
+
+goloniel/characters/migrations
+goloniel/discorduser/migrations
+goloniel/goloniel/migrations
+goloniel/masters/migrations
+goloniel/notes/migrations
+goloniel/quests/migrations
+goloniel/status/migrations
+goloniel/glibrary/migrations
+
+*.pyc
+
+.env
+env/
+venv/
